@@ -1,10 +1,10 @@
 <template>
-  <div> Start page</div>
+  <div>BJ</div>
 </template>
 
 <script>
 export default {
-  name: 'StartPage'
+  name: 'BJHeader'
 }
 </script>
 

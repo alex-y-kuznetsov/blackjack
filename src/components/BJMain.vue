@@ -1,5 +1,5 @@
 <template>
-  <div>Black Jack App</div>
+  <div>This is Black Jack</div>
 </template>
 
 <script>
