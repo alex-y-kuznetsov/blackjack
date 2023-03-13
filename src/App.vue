@@ -33,6 +33,7 @@ export default {
   --main-color: #FFFFFF;
   --secondary-color: #16123F;
   --bg-gradient: linear-gradient(90deg, #ABD699, #75C9B7);
+  --main-transition: 0.4s;
 }
 
 html,
